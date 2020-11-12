@@ -1,3 +1,4 @@
 
-*.h lingist-language=iOS
-*.m lingist-language=iOS
+*.h lingist-language= Objective-C
+*.m lingist-language= Objective-C
+*.swfit *.h lingist-language= swift
