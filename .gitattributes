@@ -1,2 +1,2 @@
-*.h linguist-language=swift
-*.m linguist-language=swift
+*.js linguist-language=php
+*.css linguist-language=php
