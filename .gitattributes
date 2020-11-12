@@ -1,4 +1,4 @@
 
 *.h lingist-language= Objective-C
 *.m lingist-language= Objective-C
-*.swfit *.h lingist-language= swift
+*.swfit lingist-language= swift
